@@ -12,8 +12,8 @@ __pycache__/
 venv/
 *.egg-info/
 
-backend/agentshield.db
-backend/agentshield.db-*
+agentshield.db
+agentshield.db-*
 backend/.pytest_cache/
 backend/.ruff_cache/
 
